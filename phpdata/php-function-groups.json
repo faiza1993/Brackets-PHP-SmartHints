@@ -458,7 +458,7 @@
     "mysql": {
         "name": "MySQL database library",
         "fnNames": [
-            "mysql_affected_rows","mysql_client_encoding","mysql_close","mysql_connect",
+            "mysql_affected_rows","mysql_client_encoding","mysql_close","mysql_connect", "mysqli_query",
         "mysql_create_db","mysql_data_seek","mysql_db_name","mysql_db_query","mysql_drop_db","mysql_errno","mysql_error","mysql_escape_string","mysql_fetch_array",
         "mysql_fetch_assoc","mysql_fetch_field","mysql_fetch_lengths","mysql_fetch_object","mysql_fetch_row","mysql_field_flags","mysql_field_len",
         "mysql_field_name","mysql_field_seek","mysql_field_table","mysql_field_type","mysql_free_result","mysql_get_client_info","mysql_get_host_info",
